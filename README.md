@@ -41,7 +41,7 @@ pip install Pillow
 To run the game, execute the following command:
 
 ```bash
-python number_ordering_game.py
+python cup_UI.py.py
 ```
 ## Gameplay
 
