@@ -1,6 +1,6 @@
-# Number Ordering Game
+# Cup Ordering Game
 
-Welcome to the **Number Ordering Game**, a fun and interactive game inspired by the viral cup matching game. Players aim to arrange a set of numbers in a specific order by swapping their positions. The game features a simple graphical interface and tracks your attempts to help you beat your high score!
+Welcome to the **Cup Ordering Game**, a fun and interactive game inspired by the viral cup matching game. Players aim to arrange a set of numbers in a specific order by swapping their positions. The game features a simple graphical interface and tracks your attempts to help you beat your high score!
 
 ## Table of Contents
 
@@ -32,14 +32,8 @@ pip install Pillow
 
 ## Installation
 
-1. Clone this repository or download the ZIP file:
-    ```bash
-    git clone <repository-url>
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd NumberOrderingGame
-    ```
+1. Clone this repository or download the ZIP file
+2. Navigate to the project directory
 3. Ensure you have the necessary images (`1.png`, `2.png`, `3.png`, `4.png`, `5.png`) in the project directory.
 
 ## Usage
